@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="aocr.xsl"?>
+<asprise-ocr input="C:\Users\swapnil.patil\Desktop\AdminRegistration.png" time-start="2018-06-25 13:13:24 India Standard Time" version-format="15" runtime="Asprise OCR 15.3 - Evaluation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://asprise.com/ocr/files/schema/15/aocr.xsd">
+  <page no="0" width="150" height="50" words="1" confidence="81" time-taken="0.009">
+    <block id="2" type="text" subtype="line" x="17" y="13" width="59" height="17" words="1" confidence="81" font-name="Trebuchet_MS_Bold" font-size="21" font-bold="1" font-italic="0" font-serif="0" baseline="28" xheight="10" ascent="5" descent="-5">7719</block>
+  </page>
+</asprise-ocr>
